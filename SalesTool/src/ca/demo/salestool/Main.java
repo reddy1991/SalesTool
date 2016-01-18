@@ -9,8 +9,8 @@ public class Main {
 		 
 	 }
 	 private static void displayGreeting(){
-		 System.out.println("HELLO");
-		 System.out.println("THIS APP SHOWS SALES DATA");
+		 System.out.println("Hello");
+		 System.out.println("This app shows sales data");
 		 System.out.println("Test 1");
 		 System.out.println("Test 2");
 	 }
